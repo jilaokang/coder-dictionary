@@ -1,4 +1,4 @@
-## it_words
+## coder-dictionary
 
 【加强版】程序员、编程常见 1700 词
 
