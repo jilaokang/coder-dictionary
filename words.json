@@ -2909,12 +2909,7 @@
         "online": "http://dict.youdao.com/dictvoice?audio=resume",
         "path": "./voice/resume.mp3"
     },
-    {
-        "word": "简历, 履历; 摘",
-        "chinese": "n. 简历, 履历; 摘要",
-        "online": "http://dict.youdao.com/dictvoice?audio=简历, 履历; 摘",
-        "path": "./voice/简历, 履历; 摘.mp3"
-    },
+ 
     {
         "word": "multiple",
         "chinese": "adj. 许多,多种多样的 n. 倍数,并联",
@@ -2950,18 +2945,6 @@
         "chinese": "n. 桌子, 平地层, 石板, 表格",
         "online": "http://dict.youdao.com/dictvoice?audio=table",
         "path": "./voice/table.mp3"
-    },
-    {
-        "word": "搁置, 嵌合, 制",
-        "chinese": "vt. 搁置, 嵌合, 制表",
-        "online": "http://dict.youdao.com/dictvoice?audio=搁置, 嵌合, 制",
-        "path": "./voice/搁置, 嵌合, 制.mp3"
-    },
-    {
-        "word": "桌子",
-        "chinese": "adj. 桌子的",
-        "online": "http://dict.youdao.com/dictvoice?audio=桌子",
-        "path": "./voice/桌子.mp3"
     },
     {
         "word": "loss",
@@ -9600,12 +9583,6 @@
         "path": "./voice/ascending.mp3"
     },
     {
-        "word": "动词ascend的现在分",
-        "chinese": "动词ascend的现在分词",
-        "online": "http://dict.youdao.com/dictvoice?audio=动词ascend的现在分",
-        "path": "./voice/动词ascend的现在分.mp3"
-    },
-    {
         "word": "augment",
         "chinese": "vt. 增加,补充 vi.扩大 n. 增加,补充物",
         "online": "http://dict.youdao.com/dictvoice?audio=augment",
@@ -9988,12 +9965,6 @@
         "chinese": "n. 圆盘，[电子] 唱片（等于disk）",
         "online": "http://dict.youdao.com/dictvoice?audio=disc",
         "path": "./voice/disc.mp3"
-    },
-    {
-        "word": "灌唱",
-        "chinese": "    vt. 灌唱片",
-        "online": "http://dict.youdao.com/dictvoice?audio=灌唱",
-        "path": "./voice/灌唱.mp3"
     },
     {
         "word": "drum",
