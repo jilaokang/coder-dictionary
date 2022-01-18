@@ -16,13 +16,13 @@
 
 ## 开始使用
 
-安装 axios 依赖
+安装 package 依赖
 
 ```bash
-node install
+npm install
 ```
 
-修改 main.js 中的 yourCookieString 字符串
+修改 main.js 中的 yourCookieString 字符串，见tips
 
 ```javascript
 const youdao = require("./src/index").youdao;
@@ -43,7 +43,7 @@ npm run start
 **tips：cookie 如何获取？**
 
 - 打开`https://dict.youdao.com/result?word=helo&lang=en`，并登录
-- 点击收藏的五角星 ⭐️ 按钮，检测 http 请求`http:...ajax/add?word=helo&lan=en`copy `cookie`部分 即可
+- 点击收藏单词的五角星按钮，检测 http 请求`http:...ajax/add?word=helo&lan=en`拷贝 `cookie`部分 即可
 
 <br/>
 
