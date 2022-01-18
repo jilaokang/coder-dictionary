@@ -6,15 +6,25 @@
 
 ### 文件
 
-- word 基础词表
-- word JSON 格式
-- word mp3 格式
+- words 1700 基础词表
+- words 1700 JSON
+- words 1700 mp3
 
 ### 功能
 
-1.批量导入到有道词典
+#### 1. 批量导入到有道词典
 
 模块路径`src/youdao/main.js`,传入 `cookie` 值即可完成批量导入
+
+```javascript
+const youdao = require("./src/index").youdao;
+
+youdao("yourCookieString");
+```
+
+```bash
+npm run start
+```
 
 cookie 如何获取？
 

@@ -1,22 +1,23 @@
 {
-  "name": "it-words",
-  "version": "1.0.0",
-  "description": "程序员必备1600词",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kasoqian/it-words.git"
-  },
-  "author": "kasoqian",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kasoqian/it-words/issues"
-  },
-  "homepage": "https://github.com/kasoqian/it-words#readme",
-  "dependencies": {
-    "axios": "^0.24.0"
-  }
+    "name": "it-words",
+    "version": "1.0.0",
+    "description": "程序员必备1600词",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kasoqian/it-words.git"
+    },
+    "author": "kasoqian",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kasoqian/it-words/issues"
+    },
+    "homepage": "https://github.com/kasoqian/it-words#readme",
+    "dependencies": {
+        "axios": "^0.24.0"
+    }
 }
