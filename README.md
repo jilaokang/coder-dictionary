@@ -6,9 +6,9 @@
 
 ### 文件
 
-- word 词表
-- word JSON 格式词表
-- word mp3 1700 词
+- word 基础词表
+- word JSON 格式
+- word mp3 格式
 
 ### 功能
 
